@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "homepage": "https://M9lTHblu.github.io/layout-designer-project-lvl1",
+  "devDependencies": {
+    "gh-pages": "^3.2.1"
+  }
+}
