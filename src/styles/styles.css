@@ -407,6 +407,8 @@ ul {
     align-items: center;
     padding: 0;
     border: none;
+
+    cursor: pointer;
 }
 
 .email-btn::before {
