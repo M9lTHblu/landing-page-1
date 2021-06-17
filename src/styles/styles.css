@@ -229,7 +229,7 @@ ul {
     color: var(--dark);
 }
 
-.header .image {
+.header-image {
     position: absolute;
     top: 55px;
     right: -270px;
